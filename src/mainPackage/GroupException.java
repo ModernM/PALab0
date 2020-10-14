@@ -1,3 +1,5 @@
+package mainPackage;
+
 public class GroupException extends RuntimeException {
 
     public GroupException(String message) {
