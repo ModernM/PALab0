@@ -32,6 +32,7 @@ public class Group {
 
     @Override
     public String toString() {
+
         return "Group{" +
                 "chief=" + chief +
                 ", other members=" + members +
